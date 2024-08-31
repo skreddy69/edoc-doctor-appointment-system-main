@@ -71,7 +71,7 @@ Create a new database naming edoc.
 
 Import the provided SQL file. The file is known as DATABASE edoc.sql located inside the source code root folder.
 
-Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc-echanneling-main/.
+Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc-doctor-appointment-system-main/.
 
 
 
